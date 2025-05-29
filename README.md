@@ -11,3 +11,4 @@ and data inputs).
 
 • Verified hardware-level functionality successfully through on-board testing and simulation.
 
+<img width="827" alt="Screenshot 2025-05-29 at 5 54 34 PM" src="https://github.com/user-attachments/assets/1eb5bc01-e1f6-4b33-af12-a706b5374b8b" />
